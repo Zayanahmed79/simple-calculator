@@ -28,3 +28,4 @@ if (answer.operator === "Addition") {
   else {
   console.log("Enter correct operator");
 }
+console.log("THE END");
